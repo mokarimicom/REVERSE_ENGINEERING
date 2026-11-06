@@ -68,12 +68,17 @@ Enter two numbers: 8 3 Invalid choice
 
  =Compare the pseudocode with the source code above.
  ==================================================
- extract strings ==>
+ 1-extract strings ==>
  on window ==> definded string ==> search ==> Result
 
+<<<<<<< HEAD
 
  
  extract function ==>
+=======
+ 
+ 2-extract function ==>
+>>>>>>> a1868eb (file_analyzer project added .)
  1- open Symbol tree 
  2- expand function
  3- look for : 
