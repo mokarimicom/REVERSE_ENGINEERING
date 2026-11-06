@@ -70,6 +70,9 @@ Enter two numbers: 8 3 Invalid choice
  ==================================================
  extract strings ==>
  on window ==> definded string ==> search ==> Result
+
+
+ 
  extract function ==>
  1- open Symbol tree 
  2- expand function
