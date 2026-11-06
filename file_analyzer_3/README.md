@@ -2,8 +2,11 @@
 1.  SOURCE CODE Save as file_analyzer.cpp:
 
 #include <fstream>
+
 #include <iostream>
+
 #include <string>
+
 using namespace std;
 
 int main() { ifstream file("sample.txt");
@@ -37,6 +40,7 @@ int main() { ifstream file("sample.txt");
     return 0;
 
 }
+
 
 
 
