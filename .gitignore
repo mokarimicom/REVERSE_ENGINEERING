@@ -1,0 +1,36 @@
+
+# Compiled executables
+program
+calculator
+file_analyzer
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+
+# Debug files
+*.dSYM/
+core
+core.*
+
+# Ghidra project files
+*.gpr
+*.rep/
+*.lock
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
